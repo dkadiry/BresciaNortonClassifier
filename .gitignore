@@ -1,0 +1,20 @@
+# Google Colab output files
+*.ipynb_checkpoints/
+*.png
+
+# Python compiled files
+__pycache__/
+
+# Data files
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Google Drive files
+*.gdoc
+*.gsheet
+*.gslides
+
+# Other unnecessary files
+.DS_Store
