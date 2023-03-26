@@ -14,7 +14,7 @@ The hotel's reputation is at stake, and any mistakes in predicting booking cance
 Determine how Brescia Norton can use machine learning to predict booking cancellations using the dataset provided.
 
 ## Project Notebook
-Booking_Predictor
+Booking_Predictor.ipynb
 
 ## Dataset
-The dataset is included in the "Dataquest Dataset - Metadata"
+The dataset is included in the "Dataquest Dataset" excel worksheet file
