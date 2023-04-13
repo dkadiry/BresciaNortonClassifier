@@ -17,7 +17,7 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 The final model utilizes an XGBoost based model to make predictions. We used the Mutual Information score to rank the most important features for training our model. The XGBoost model was compared to an SVC based model, KNN model and an MLP-XGBoost pipeline model.
 
 ## Project Notebook
-Booking_Predictor.ipynb
+[Booking_Predictor.ipynb](https://github.com/dkadiry/BresciaNortonClassifier/blob/main/Booking_Predictor.ipynb)
 
 ## Dataset
 The dataset is included in the "Dataquest Dataset" excel worksheet file
