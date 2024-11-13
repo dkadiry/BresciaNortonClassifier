@@ -1,4 +1,4 @@
-# BresciaNortonClassifier Hackathon Project
+# BresciaNortonClassifier Hackathon Project (Award Winning)
 ## Challenge
 Brescia Norton Hotel is a renowned luxury five-star hotel with a history spanning over six decades. However, in recent times, the hotel has faced several challenges, with one of the most significant being the increasing number of booking cancellations. 
 
